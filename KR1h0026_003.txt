@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 論語集說
-#+DATE: 2016-04-12 14:00:18.547891
+#+DATE: 2016-04-12 14:00:18.935073
 #+PROPERTY: ID KR1h0026
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR1h0026_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -404,7 +404,7 @@
 ¶
 　　子謂仲弓曰犂牛之子騂且角雖欲勿用山川其舎諸¶
 <pb:KR1h0026_WYG_003-19b>¶
-(犂利之切騂息營切&KR0213;上聲)¶
+(犂利之切騂息營切舍上聲)¶
 ¶
 　　集曰此論仲弓云爾非與仲弓言也(東坡蘓氏)犂雜色¶
 騂赤色(周人尚赤牲用騂)角者角周正中犧牲也用用以¶
